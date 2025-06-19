@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff0bc;
+    display: block;
+    padding: 10px;
+}
+
+h1 {
+    color: #584c25;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+ul {
+    color: #453d23;
+}
+
+li {
+    padding: 5px;
+}
+
+a {
+    color: #453d23;
+    text-decoration: none;
+}
